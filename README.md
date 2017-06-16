@@ -1,2 +1,2 @@
 # DryAD
-Plant temperature, humidity and light monitoring with Arduino-uno
+Plants temperature, humidity and light monitoring with Arduino-uno
